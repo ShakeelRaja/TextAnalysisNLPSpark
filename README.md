@@ -1,2 +1,2 @@
-# TextAnalysisNLPSpark
-text analysis ipython notebooks for text analysis
+# Big data text Analysis with NLP techniques on Apache Spark 
+
